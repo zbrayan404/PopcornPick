@@ -1,6 +1,6 @@
 # PopcornPick
 
-Popcorn Picks is a movie recommendation app that combines content analysis and user preferences to suggest films and shows tailored to your taste. The more you interact with the app, the better its recommendations become!
+PopcornPick is a movie recommendation app that combines content analysis and user preferences to suggest films and shows tailored to your taste. The more you interact with the app, the better its recommendations become!
 
 ## Features
 
